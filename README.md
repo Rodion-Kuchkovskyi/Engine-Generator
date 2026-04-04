@@ -1,6 +1,6 @@
 # Engine-Generator
 Engine Generator is a tool for creating ready-to-use engine configurations for Engine Simulator (ES2D).
-It automatically generates clean, structured code for a wide range of engine types, including inline, V, and boxer layouts.
+It automatically generates clean, structured code for a wide range of engine types, including inline, V, boxer, W, and radial layouts.
 The program handles complex parameters such as firing order, ignition timing, crankshaft configuration, and cylinder phase alignment, allowing even unusual engine setups to run without manual tuning. 
 
 Program can generate ready to use file, or generate code that you can copy and paste in your own file.
